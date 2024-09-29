@@ -35,6 +35,9 @@ CSRF_TRUSTED_ORIGINS = [
     'https://p9z4c6-8000.csb.app',
 ]
 
+LOGIN_URL = '/login/'
+LOGIN_REDIRECT_URL = '/'
+LOGOUT_REDIRECT_URL = '/'
 
 # Application definition
 
