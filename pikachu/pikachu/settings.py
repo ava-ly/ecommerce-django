@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     'p9z4c6-8000.csb.app',
+    'ecommerce-django-1-e269.onrender.com'
 ]
 
 CSRF_TRUSTED_ORIGINS = [
