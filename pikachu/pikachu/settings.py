@@ -33,10 +33,6 @@ ALLOWED_HOSTS = [
     'ecommerce-django-41ay.onrender.com'
 ]
 
-CSRF_TRUSTED_ORIGINS = [
-    'https://p9z4c6-8000.csb.app',
-]
-
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
